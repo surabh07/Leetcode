@@ -1,17 +1,26 @@
-# Leetcode
-# 30 Days of LeetCode Challenges
+# 100 Days of LeetCode
 
-This repository contains my solutions to the 30 Days of LeetCode challenge. Each day, I tackle a new coding problem from LeetCode, aiming to improve my problem-solving skills and understanding of algorithms and data structures.
+Welcome to my 100 Days of LeetCode challenge repository! Here, I document my journey of solving LeetCode problems daily for 100 days. This challenge is a part of my commitment to enhancing my problem-solving skills and mastering algorithms and data structures.
 
-## Structure
+## Progress Tracking
 
-- Each day's challenge is organized into its own directory (`Day1`, `Day2`, etc.).
-- Inside each directory, you'll find:
-  - Solution: My solutions are in Java.
+- **Day 1:** Problem solved (Link to solution)
+- **Day 2:** Problem solved (Link to solution)
+- **...**
+- **Day 100:** Problem solved (Link to solution)
 
-## Why This Repository?
+## Repository Structure
 
-- Learning and Improvement: By committing to solving a problem daily, I aim to enhance my understanding of algorithms and data structures.
-- Sharing Knowledge: I believe in sharing my solutions to help others learn and compare different approaches.
+- **`/problems`:** Contains solutions to each problem solved during the challenge.
+- **`README.md`:** Documentation providing an overview of the challenge and progress.
 
-Feel free to explore, contribute, or use these solutions as a reference in your own journey of mastering LeetCode challenges
+## Why 100 Days of LeetCode?
+
+Solving LeetCode problems daily helps me:
+- Improve problem-solving skills.
+- Gain proficiency in algorithms and data structures.
+- Prepare effectively for technical interviews.
+
+## How to Use This Repository?
+
+Feel free to explore the solutions provided here. If you have any suggestions or improvements, please open an issue or submit a pull request. Let's learn and grow together!
